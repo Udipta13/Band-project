@@ -1,0 +1,57 @@
+
+.nav{
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+    font-size: 20px;
+}
+.music{
+    opacity: 0.5;
+}
+.red{
+    margin:5px 150px 5px 150px;
+    text-align: left;
+}
+.flex-container{
+
+    
+    display:-webkit-flex;
+
+    display:flex;
+
+    width: 1400px;
+
+    height: 400px;
+
+    background-color:white;
+    margin-left: 150px;
+}
+.flex-item{
+    background-color:white;
+
+    width: 400px;
+
+    height: 400px;
+
+    margin-left: 10px;
+
+    font-size:30px;
+
+    color:white;
+
+    text-align:center;
+}
+.Fan{
+    opacity:0.5;
+}
+.Contact{
+    margin-top: 50px 10px 50px;
+    text-align: left;
+}
+
+.Blue{
+    padding: 50px;
+    opacity:0.5;
+    font-size: large;
+}
